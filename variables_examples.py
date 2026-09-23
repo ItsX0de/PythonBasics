@@ -2,7 +2,7 @@
 # Variables store information that your program can use later
 
 # String variable (text)
-name = "Sean" 
+name = "X0de" 
 
 # Integer variable (whole number)
 age = 13
