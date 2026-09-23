@@ -1,8 +1,8 @@
 # Creating a dictionary
 person = {
-    "name": "Sean",
+    "name": "X0de",
     "age": "13",
-    "country": "Egypt"
+    "location": "Earth"
 }
 
 print(person)
@@ -20,7 +20,7 @@ person["age"] = 14
 print(person)
 
 # Removing data
-person.pop("country")
+person.pop("location")
 print(person)
 
 # Looping through dictionary
