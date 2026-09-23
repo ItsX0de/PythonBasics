@@ -11,7 +11,7 @@ say_hello
 def greet(name):
     print("Hello", name)
 
-greet("Sean") 
+greet("X0de") 
 
 
 # Function with return value
